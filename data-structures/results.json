@@ -1,0 +1,23 @@
+[
+  {
+    "id": 201,
+    "name": "Rinsed Ltd",
+    "email": "rinsed@gmail.com",
+    "basePlan": "standard",
+    "xeroPlan": "starter",
+    "addOns": {
+      "gstReview": 20,
+      "companyAdvice": 75
+    }
+  },{
+    "id": 332,
+    "name": "Loomio Cooperative Ltd",
+    "email": "accounts@loomio.org",
+    "basePlan": "social enterprise",
+    "xeroPlan": "starter",
+    "addOns": {
+      "extraSoftware": 10,
+      "gstReview": 5
+    }
+  }
+]
