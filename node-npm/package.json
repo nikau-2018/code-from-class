@@ -1,0 +1,14 @@
+{
+  "name": "iheartcows",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "EDA",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "cowsay": "^1.3.1"
+  }
+}
