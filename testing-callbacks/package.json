@@ -1,0 +1,12 @@
+{
+  "name": "testing-callbacks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
