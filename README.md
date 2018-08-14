@@ -9,3 +9,4 @@
 * Week 2: Monday: [callbacks](callbacks)
 * Week 2: Monday: [testing-callbacks](testing-callbacks)
 * Week 2: Tuesday: [handlebars-intro](handlebars-intro)
+* Week 2: Tuesday: [testing-handlebars](testing-handlebars)
