@@ -1,0 +1,12 @@
+{
+  "name": "knex-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.15.2"
+  },
+  "devDependencies": {
+    "sqlite3": "^4.0.2"
+  }
+}
