@@ -12,3 +12,4 @@
 * Week 2: Tuesday: [testing-handlebars](testing-handlebars)
 * Week 2: Wednesday: [express-router](express-router)
 * Week 3: Monday: [knex-intro](knex-intro)
+* Week 3: Tuesday: [knex-joins](knex-joins)
