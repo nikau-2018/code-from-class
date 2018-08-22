@@ -15,3 +15,4 @@
 * Week 3: Tuesday: [knex-joins](knex-joins)
 * Week 3: Tuesday: [testing-db-functions](testing-db-functions)
 * Week 3: Wednesday: [knex-relationships](knex-relationships)
+* Week 3: Thursday: [knex-forms](knex-forms)
