@@ -18,3 +18,4 @@
 * Week 3: Thursday: [knex-forms](knex-forms)
 * Week 4: Monday: [react-intro](react-intro)
 * Week 4: Monday: [react-class-components](react-class-components)
+* Week 4: Tuesday: [react-state-click-handling](react-state-click-handling)
