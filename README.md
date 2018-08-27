@@ -17,3 +17,4 @@
 * Week 3: Wednesday: [knex-relationships](knex-relationships)
 * Week 3: Thursday: [knex-forms](knex-forms)
 * Week 4: Monday: [react-intro](react-intro)
+* Week 4: Monday: [react-class-components](react-class-components)
