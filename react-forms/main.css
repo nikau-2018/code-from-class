@@ -1,0 +1,47 @@
+.item-name {
+  font-weight: bold;
+  width: 20%;
+  word-wrap: break-word;
+}
+
+.item-description {
+  font-style: italic;
+  word-wrap: break-word;
+  width: 70%;
+}
+
+.item-color {
+  border-radius: 0.5rem;
+  width: 10%;
+}
+
+.button-warning {
+  color: white;
+  background-color: tomato;
+}
+
+.button-warning:focus {
+  color: white;
+}
+
+.item {
+  cursor: pointer;
+}
+
+table {
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.item td:first-child {
+  padding-left: 0.5rem;
+}
+
+.item:hover {
+  background-color: #eee;
+}
+
+.error {
+  color: red;
+  margin-bottom: 0.5rem;
+}
