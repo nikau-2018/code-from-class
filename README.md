@@ -21,3 +21,4 @@
 * Week 4: Tuesday: [react-state-click-handling](react-state-click-handling)
 * Week 4: Tuesday: [simple-state-management](simple-state-management)
 * Week 4: Wednesday: [react-router](react-router)
+* Week 4: Wednesday: [nested-routes-demo](nested-routes-demo)
