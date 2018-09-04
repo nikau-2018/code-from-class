@@ -1,0 +1,51 @@
+{
+  "name": "boilerplate-express-api",
+  "version": "0.1.2",
+  "description": "Express boilerplate for APIs with Knex.js",
+  "main": "index.js",
+  "scripts": {
+    "knex": "knex",
+    "dev": "node index & webpack --watch",
+    "start": "node index",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-academy-challenges/boilerplate-express-api.git"
+  },
+  "author": "EDA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-academy-challenges/boilerplate-express-api/issues"
+  },
+  "homepage": "https://github.com/dev-academy-challenges/boilerplate-express-api#readme",
+  "babel": {
+    "presets": [
+      "env",
+      "react"
+    ],
+    "plugins": [
+      "transform-class-properties"
+    ]
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "jest": "^22.1.4",
+    "nodemon": "^1.14.12",
+    "sqlite3": "^3.1.13",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "7",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "superagent": "^3.8.3",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
