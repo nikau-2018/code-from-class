@@ -24,5 +24,5 @@
 * Week 4: Wednesday: [nested-routes-demo](nested-routes-demo)
 * Week 4: Thursday: [react-forms](react-forms)
 * Week 5: Monday: [fullstack](fullstack)
-* Week 5: Tuesday: [react-forms-to-web-api](react-forms-to-web-api)
+* Week 5: Tuesday: [react-form-to-web-api](react-form-to-web-api)
 * Week 5: Wednesday: [external-apis](external-apis)
