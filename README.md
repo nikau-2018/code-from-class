@@ -27,3 +27,4 @@
 * Week 5: Tuesday: [react-form-to-web-api](react-form-to-web-api)
 * Week 5: Wednesday: [external-apis](external-apis)
 * Week 5: Wednesday: [this-call-apply-bind](this-call-apply-bind)
+* Week 6: Monday: [redux-intro](redux-intro)
