@@ -29,3 +29,4 @@
 * Week 5: Wednesday: [this-call-apply-bind](this-call-apply-bind)
 * Week 6: Monday: [redux-intro](redux-intro)
 * Week 6: Monday: [action-creators-and-testing](action-creators-and-testing)
+* Week 6: Tuesday: [react-redux-intro](react-redux-intro)
