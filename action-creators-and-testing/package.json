@@ -1,0 +1,34 @@
+{
+  "name": "redux-minimal",
+  "version": "0.3.0",
+  "description": "Redux exercise (with React)",
+  "author": "EDA",
+  "license": "ISC",
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline",
+    "test": "jest --watch"
+  },
+  "babel": {
+    "presets": [
+      "env",
+      "react"
+    ],
+    "plugins": [
+      "transform-class-properties"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "jest": "^23.5.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "redux": "^3.7.2",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
